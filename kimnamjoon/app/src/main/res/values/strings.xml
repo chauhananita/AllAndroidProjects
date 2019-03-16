@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kimnamjoon</string>
+    <string-array name="country_name">
+        <item>India</item>
+        <item>South korea</item>
+        <item>Paris</item>
+    </string-array>
+    <string name="header">select country</string>
+
+
+</resources>
